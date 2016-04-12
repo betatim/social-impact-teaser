@@ -11,16 +11,12 @@ Data analysis for social impact - what are the tools?
 
 # Datasets
 
-The datsets in this tutorial were downloaded from [HDX] and are
+The [ebola] datset in this tutorial was downloaded from [HDX] and are
 available there for free.
 
-* [Ebola]
-* Guinea prefectures borders can be downloaded from
-  [GADM](http://www.gadm.org/country). Country: Guinea File Format: Shapefile
-  Gives you `GIN_adm_shp.zip`, extract it to `social-impact-teaser/gin_adm`
-* [Cameroon round 1](https://data.hdx.rwlabs.org/dataset/cameroon-round-1-dtm-data)
-* [Nigeria round 3]
-* [Nigeria round 7]
+Guinea prefectures borders can be downloaded from
+[GADM](http://www.gadm.org/country). Country: Guinea File Format: Shapefile
+Gives you `GIN_adm_shp.zip`, extract it to `social-impact-teaser/gin_adm`
 
 
 # Thank you
