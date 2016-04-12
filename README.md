@@ -16,6 +16,14 @@ Hub: [Data analysis for social impact]
   version.
 
 
+# Try it out
+
+You can try part of the material out live, in the cloud. Simply clicking
+on the binder badge:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/wildtreetech/social-impact-teaser)
+
+
 # Datasets
 
 The [ebola] datset in this tutorial was downloaded from [HDX] and are
