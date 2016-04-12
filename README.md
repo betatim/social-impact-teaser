@@ -8,6 +8,9 @@ Hub: [Data analysis for social impact]
 
 You can [view the slides](http://htmlpreview.github.io/?https://github.com/wildtreetech/social-impact-teaser/blob/master/slides/index.html#/) online.
 
+This is a preview for a two day course on [Data Science for Social Impact](http://www.wildtreetech.com/training/beyond-excel-spring-16.html). Contact
+`tim@wildtreetech.com` directly for more information.
+
 
 # Install instructions
 
@@ -20,7 +23,7 @@ You can [view the slides](http://htmlpreview.github.io/?https://github.com/wildt
 
 # Try it out
 
-You can try part of the material out live, in the cloud. Simply clicking
+You can try part of the material out live, in the cloud. Simply click
 on the binder badge:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/wildtreetech/social-impact-teaser)
