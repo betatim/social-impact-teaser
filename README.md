@@ -2,11 +2,18 @@
 
 Data analysis for social impact - what are the tools?
 
+Material for the skill share session at the Geneva Impact
+Hub: [Data analysis for social impact]
+(https://geneva.impacthub.net/event/data-analysis-training-for-social-impact/)
+
 
 # Install instructions
 
-* open refine
-* conda
+* [Download Open Refine](http://openrefine.org/download.html), install and
+  start it. Should open a new browser window. If not surf to `http://localhost:3333`
+* Anaconda is a python distribution that is easy to install and contains
+  a large number of commonly used libraries. [Download anaconda](https://www.continuum.io/downloads), make sure to get the `python3.5`
+  version.
 
 
 # Datasets
