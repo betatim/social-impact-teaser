@@ -36,7 +36,12 @@ available there for free.
 
 Guinea prefectures borders can be downloaded from
 [GADM](http://www.gadm.org/country). Country: Guinea File Format: Shapefile
-Gives you `GIN_adm_shp.zip`, extract it to `social-impact-teaser/gin_adm`
+Gives you `GIN_adm_shp.zip`, extract it to `social-impact-teaser/gin_adm`.
+
+The Montreal bikes data comes from [Données Ouvertes Montréal]
+(http://donnees.ville.montreal.qc.ca/dataset/velos-comptage).
+
+The Zurich bike data comes from [Zurich Open Data](https://data.stadt-zuerich.ch).
 
 
 # License
