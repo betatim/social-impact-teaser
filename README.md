@@ -1,10 +1,12 @@
-# Data for Social Impact - skill share session
+# Data Analysis for Social Impact - skill share session
 
 Data analysis for social impact - what are the tools?
 
 Material for the skill share session at the Geneva Impact
 Hub: [Data analysis for social impact]
 (https://geneva.impacthub.net/event/data-analysis-training-for-social-impact/)
+
+You can [view the slides](http://htmlpreview.github.io/?https://github.com/wildtreetech/social-impact-teaser/blob/master/slides/index.html#/) online.
 
 
 # Install instructions
@@ -34,7 +36,11 @@ Guinea prefectures borders can be downloaded from
 Gives you `GIN_adm_shp.zip`, extract it to `social-impact-teaser/gin_adm`
 
 
-# Thank you
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Analysis for Social Impact</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/wildtreetech/social-impact-teaser" property="cc:attributionName" rel="cc:attributionURL">Tim Head</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+All images are from [unsplash](//unsplash.com). Ebola data are taken from HDX.
 
 Thanks to [Peter Waller](//github.com/pwaller) for inspiration and GIFs.
 
