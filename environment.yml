@@ -1,8 +1,8 @@
 name: social
 dependencies:
 - basemap=1.0.7=np110py35_0
-- fiona=1.6.0=np110py35_0
-- geos=3.3.3=0
+- fiona=1.6.0
+- geos=3.3.3
 - jupyter=1.0.0=py35_1
 - krb5=1.13.2=0
 - libgdal=2.0.0
