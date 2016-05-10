@@ -1,6 +1,5 @@
 name: finddx
 dependencies:
-- appnope=0.1.0=py35_0
 - backports=1.0=py35_0
 - basemap=1.0.7=np110py35_0
 - click=6.6=py35_0
@@ -30,7 +29,6 @@ dependencies:
 - libpng=1.6.17=0
 - markupsafe=0.23=py35_0
 - matplotlib=1.5.1=np110py35_0
-- mistune=0.7.2=py35_1
 - nbconvert=4.2.0=py35_0
 - nbformat=4.0.1=py35_0
 - nomkl=1.0=0
