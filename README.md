@@ -2,16 +2,21 @@
 
 Data analysis for social impact - what are the tools?
 
-Material for a 2hr skill share session. Previously shown at the Geneva Impact
-Hub: [Data analysis for social impact]
-(https://geneva.impacthub.net/event/data-analysis-training-for-social-impact/)
+Material for a ~2hr workshop. Works great to get you and your
+team started with interactive data analysis. Introduces you to:
 
-Introduces you to [Open Refine], [jupyter] notebooks, and [python]. By the end
-you will know how to take messy data from [HDX] and create an interactive
+* [Open Refine],
+* [jupyter] notebooks, and
+* [python].
+
+By the end you will know how to take messy data from [HDX] and create an interactive
 map like this:
 
 ![Guinea ebola deaths](imgs/map.png)
 
+Previously shown at the Geneva Impact
+Hub: [Data analysis for social impact]
+(https://geneva.impacthub.net/event/data-analysis-training-for-social-impact/)
 
 You can [view the slides](http://htmlpreview.github.io/?https://github.com/wildtreetech/social-impact-teaser/blob/master/slides/index.html#/) online.
 
