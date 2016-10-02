@@ -2,7 +2,7 @@
 
 Data analysis for social impact - what are the tools?
 
-Material for the skill share session at the Geneva Impact
+Material for a 2hr skill share session. Previously shown at the Geneva Impact
 Hub: [Data analysis for social impact]
 (https://geneva.impacthub.net/event/data-analysis-training-for-social-impact/)
 
