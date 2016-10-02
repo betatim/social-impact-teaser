@@ -2,8 +2,8 @@
 
 Data analysis for social impact - what are the tools?
 
-Material for a ~2hr workshop. Works great to get you and your
-team started with interactive data analysis. Introduces you to:
+This workshop works great to get you and your
+team started with interactive data analysis (roughly 2hrs long). Introduces you to:
 
 * [Open Refine],
 * [jupyter] notebooks, and
